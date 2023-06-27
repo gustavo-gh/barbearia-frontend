@@ -58,3 +58,9 @@ ul {
 img {
     width: 50%;
 }
+
+.sim {
+    text-decoration: none;
+    font-size: 80px;
+    color: purple;
+}
